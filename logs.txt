@@ -1,0 +1,20 @@
+Sample Runs
+
+Player 2 at 2025-08-26T15:01:05
+Message: Where should I go now?
+NPC Reply: That depends entirely on your goals. What are you hoping to accomplish?
+Conversation state: ['Where should I go now?']
+NPC Mood: neutral
+============================================================
+Player 5 at 2025-08-26T15:01:07
+Message: Can I buy a sword here?
+NPC Reply: We have a selection of blades.  What sort are you interested in?
+Conversation state: ['Can I buy a sword here?']
+NPC Mood: neutral
+============================================================
+Player 1 at 2025-08-26T15:01:10
+Message: Hello there!
+NPC Reply: Greetings.  What can I do for you?
+Conversation state: ['Hello there!']
+NPC Mood: neutral
+============================================================
