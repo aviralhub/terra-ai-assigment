@@ -1,4 +1,4 @@
-# terra-ai-assigment
+# terra-ai
 In this assignment, you’ll build a simple **AI-powered NPC chat system**.  (NPC = Non-playing character)
 
 ---
